@@ -37,12 +37,12 @@ making this time-sensitive.
 
 ### 🔍 Troubleshooting Steps
 1. Contacted user Abel Tutler via phone
-2. Instructed user to navigate to Settings → Printers & Scanners and confirm Sharp MFP is set as default printer
+2. Instructed user to navigate to Settings then Printers & Scanners and confirm Sharp MFP is set as default printer
 3. Had user open the print queue and clear all stuck/pending jobs
-4. Instructed user to power cycle the printer – full shutdown, waited 60 seconds, powered back on
+4. Instructed user to power cycle the printer; full shutdown, waited 60 seconds, powered back on
 5. Had user reseat the ethernet cable on the back of the printer
 6. Printer returned to Ready status after restart
-7. User submitted a test print – job completed successfully
+7. User submitted a test print in which job completed successfully
 8. User confirmed member document printed without issue
 
 ---
