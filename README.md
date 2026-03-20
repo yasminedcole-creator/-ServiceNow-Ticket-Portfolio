@@ -1,10 +1,10 @@
 # 🎫 ServiceNow Ticket Portfolio | Yasmine Cole
-
 IT Support professional with hands-on experience resolving hardware, software, 
 and connectivity issues using ServiceNow. All tickets below were worked and 
 resolved in a live ServiceNow environment.
 
 ---
+<img width="972" height="200" alt="Screenshot 2026-03-20 182537" src="https://github.com/user-attachments/assets/6f91b984-5254-4a41-a1bc-f78534263736" />
 
 ## ✅ Ticket 1 — INC0010003
 **Caller:** Jonathan Meridian, Teller | Signal Financial FCU
