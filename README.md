@@ -4,6 +4,8 @@ and connectivity issues using ServiceNow. All tickets below were worked and
 resolved in a live ServiceNow environment.
 
 ---
+<img width="2665" height="1706" alt="image" src="https://github.com/user-attachments/assets/d9ce97a5-e353-4ab1-84f4-200ff9941e73" />
+
 <img width="972" height="200" alt="Screenshot 2026-03-20 182537" src="https://github.com/user-attachments/assets/6f91b984-5254-4a41-a1bc-f78534263736" />
 
 ## ✅ Ticket 1 — INC0010003
@@ -48,6 +50,8 @@ making this time-sensitive.
 <img width="959" height="439" alt="work notes number 1 printer" src="https://github.com/user-attachments/assets/ab0b0812-2c89-4afd-b68c-2e574722fb1d" />
 
 
+
+
 ---
 
 ### ✅ Resolution
@@ -61,15 +65,16 @@ before contacting IT.
 ---
 
 ### 📋 Resolution Notes
-![Resolution](screenshots/Resolution_comment_printer.png)
 
----
+
+---<img width="500" height="241" alt="Resolution comment printer" src="https://github.com/user-attachments/assets/dd6f6c32-df34-4e83-90fb-6bf76e444d07" />
+
 
 ### ⏱️ SLA Compliance
 Ticket resolved within SLA target window. Priority 3 resolution target: 1 Business Day.
 Business elapsed time at resolution: 1 Minute.
 
-![SLA](screenshots/SLA_for_printer.png)
+<img width="490" height="252" alt="SLA for printer" src="https://github.com/user-attachments/assets/115f5678-5011-4e0e-9245-cdef41d8e8a5" />
 
 ---
 
