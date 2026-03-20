@@ -26,10 +26,9 @@ to print. A member was at the counter waiting for a printed document,
 making this time-sensitive.
 
 ---
+### 📋 Incident Record
 <img width="1913" height="1000" alt="Screenshot 2026-03-20 181757" src="https://github.com/user-attachments/assets/c8c8f843-2e2a-4074-906d-7183db85566f" />
 
-### 📋 Incident Record
-![Incident Record](screenshots/Incident_Record_Printer.png)
 
 ---
 
