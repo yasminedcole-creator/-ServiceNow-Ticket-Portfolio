@@ -19,7 +19,6 @@ resolved in a live ServiceNow environment.
 **Channel:** Email
 **Status:** ✅ Resolved
 
-<img width="972" height="200" alt="Screenshot 2026-03-20 182537" src="https://github.com/user-attachments/assets/6f91b984-5254-4a41-a1bc-f78534263736" />
 ---
 
 ### 📝 Issue Reported
@@ -28,6 +27,7 @@ functioning normally all day. Printer displayed an error when attempting
 to print. A member was at the counter waiting for a printed document, 
 making this time-sensitive.
 
+<img width="972" height="200" alt="Screenshot 2026-03-20 182537" src="https://github.com/user-attachments/assets/6f91b984-5254-4a41-a1bc-f78534263736" />
 ---
 ### 📋 Incident Record
 <img width="1913" height="1000" alt="Screenshot 2026-03-20 181757" src="https://github.com/user-attachments/assets/c8c8f843-2e2a-4074-906d-7183db85566f" />
