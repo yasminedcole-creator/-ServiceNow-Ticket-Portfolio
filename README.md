@@ -4,11 +4,11 @@ and connectivity issues using ServiceNow. All tickets below were worked and
 resolved in a live ServiceNow environment.
 
 ---
-<img width="2665" height="1706" alt="image" src="https://github.com/user-attachments/assets/d9ce97a5-e353-4ab1-84f4-200ff9941e73" />
 
-<img width="972" height="200" alt="Screenshot 2026-03-20 182537" src="https://github.com/user-attachments/assets/6f91b984-5254-4a41-a1bc-f78534263736" />
 
 ## ✅ Ticket 1 — INC0010003
+<img width="2665" height="1706" alt="image" src="https://github.com/user-attachments/assets/d9ce97a5-e353-4ab1-84f4-200ff9941e73" />
+
 **Caller:** Abel Tutler, Teller | Financial FCU
 **Date:** March 20, 2026
 **Category:** Hardware — Printer
@@ -19,6 +19,7 @@ resolved in a live ServiceNow environment.
 **Channel:** Email
 **Status:** ✅ Resolved
 
+<img width="972" height="200" alt="Screenshot 2026-03-20 182537" src="https://github.com/user-attachments/assets/6f91b984-5254-4a41-a1bc-f78534263736" />
 ---
 
 ### 📝 Issue Reported
