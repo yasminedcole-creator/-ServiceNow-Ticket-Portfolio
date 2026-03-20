@@ -7,7 +7,7 @@ resolved in a live ServiceNow environment.
 <img width="972" height="200" alt="Screenshot 2026-03-20 182537" src="https://github.com/user-attachments/assets/6f91b984-5254-4a41-a1bc-f78534263736" />
 
 ## ✅ Ticket 1 — INC0010003
-**Caller:** Jonathan Meridian, Teller | Signal Financial FCU
+**Caller:** Abel Tutler, Teller | Financial FCU
 **Date:** March 20, 2026
 **Category:** Hardware — Printer
 **Subcategory:** Printer
@@ -33,7 +33,7 @@ making this time-sensitive.
 ---
 
 ### 🔍 Troubleshooting Steps
-1. Contacted user Jonathan Meridian via phone
+1. Contacted user Abel Tutler via phone
 2. Instructed user to navigate to Settings → Printers & Scanners and confirm Sharp MFP is set as default printer
 3. Had user open the print queue and clear all stuck/pending jobs
 4. Instructed user to power cycle the printer – full shutdown, waited 60 seconds, powered back on
