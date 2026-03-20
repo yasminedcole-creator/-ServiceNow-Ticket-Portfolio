@@ -68,7 +68,8 @@ before contacting IT.
 ### 📋 Resolution Notes
 
 
----<img width="500" height="241" alt="Resolution comment printer" src="https://github.com/user-attachments/assets/dd6f6c32-df34-4e83-90fb-6bf76e444d07" />
+---
+<img width="500" height="241" alt="Resolution comment printer" src="https://github.com/user-attachments/assets/dd6f6c32-df34-4e83-90fb-6bf76e444d07" />
 
 
 ### ⏱️ SLA Compliance
