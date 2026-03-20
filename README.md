@@ -45,7 +45,8 @@ making this time-sensitive.
 ---
 
 ### 📓 Work Notes
-![Work Notes](screenshots/work_notes_number_1_printer.png)
+<img width="959" height="439" alt="work notes number 1 printer" src="https://github.com/user-attachments/assets/ab0b0812-2c89-4afd-b68c-2e574722fb1d" />
+
 
 ---
 
