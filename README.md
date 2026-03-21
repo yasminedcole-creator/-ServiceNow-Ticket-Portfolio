@@ -81,7 +81,7 @@ Business elapsed time at resolution: 1 Minute.
 ---
 
 ## ✅ Ticket 2 — INC0010004
-**Caller:** David Miller, CFO | Signal Financial FCU
+**Caller:** David Miller, CFO | Financial FCU
 **Date:** March 20, 2026
 **Category:** Software
 **Subcategory:** Email / Microsoft Teams
