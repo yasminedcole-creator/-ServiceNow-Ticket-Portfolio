@@ -80,4 +80,66 @@ Business elapsed time at resolution: 1 Minute.
 
 ---
 
-*Ticket 2 — Don Milton, CFO | Teams Camera Issue — Coming Soon*
+## ✅ Ticket 2 — INC0010004
+**Caller:** David Miller, CFO | Signal Financial FCU
+**Date:** March 20, 2026
+**Category:** Software
+**Subcategory:** Email / Microsoft Teams
+**Priority:** 1 - Critical
+**Urgency:** 1 - High
+**Impact:** 1 - High
+**Channel:** Chat
+**Status:** ✅ Resolved
+
+---
+
+### 📝 Issue Reported
+CFO David Miller reported that his laptop camera failed to activate 
+during Microsoft Teams meetings. User clicked "Turn Camera On" 
+repeatedly with no response. User attempted self-troubleshooting 
+through Teams prompts without success. As CFO, user participates 
+in executive and board-level meetings regularly — ticket escalated 
+to Priority 1 Critical immediately.
+
+---
+
+### 📋 Incident Record
+<img width="1919" height="991" alt="Screenshot 2026-03-20 201202" src="https://github.com/user-attachments/assets/6fa25a8b-c8e2-48d8-be28-3abbfa17c9c7" />
+
+---
+
+### 🔍 Troubleshooting Steps
+1. Contacted David Miller via phone
+2. Instructed user to check Windows camera privacy settings – navigated to Settings → Privacy → Camera and confirmed camera access was enabled for Microsoft Teams
+3. Had user open Device Manager – camera device showing warning symbol indicating driver or hardware failure
+4. Attempted driver reinstall through Device Manager – issue persisted after reinstall
+5. Instructed user to test camera in Windows Camera app – camera failed to activate confirming hardware failure
+6. Remote troubleshooting exhausted – hardware replacement required
+7. User instructed to bring laptop into IT department for physical inspection
+8. Physical inspection performed – internal camera hardware confirmed faulty
+9. Laptop camera replaced by on-site technician
+10. Device reassembled and tested – camera functioning correctly
+11. User confirmed camera working in Microsoft Teams test meeting
+12. Laptop returned to user same day
+
+---
+
+### 📓 Work Notes
+<img width="1919" height="920" alt="Screenshot 2026-03-20 201434" src="https://github.com/user-attachments/assets/76d8e281-65d5-4265-9873-7cabd502f8d7" />\
+
+<img width="1871" height="771" alt="Screenshot 2026-03-20 203755" src="https://github.com/user-attachments/assets/7fa0eb81-e9ad-4237-ae7c-2952c2530eaa" />
+
+---
+
+### ✅ Resolution
+Internal laptop camera confirmed faulty after remote troubleshooting 
+was exhausted. User brought laptop into IT department for physical 
+inspection. Camera hardware replaced by on-site technician. Device 
+tested and confirmed fully functional. User verified camera working 
+correctly in a live Microsoft Teams meeting. Laptop returned to user 
+same day. Ticket resolved within SLA window.
+
+---
+
+### 📋 Resolution Notes 
+<img width="1917" height="1017" alt="Screenshot 2026-03-20 204242" src="https://github.com/user-attachments/assets/3ea9f607-daee-4fc5-a852-81e2a8382357" />
